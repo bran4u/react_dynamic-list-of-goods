@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoodsList.css"],"names":[],"mappings":"AAAA,cACE,YAAc,CACd,QAAS,CACT,gBAAiB,CACjB,mBACF,CAEA,oBACE,UAAY,CACZ,YACF","file":"main.04fa6eb6.chunk.css","sourcesContent":[".good__button {\r\n  padding: 10px ;\r\n  border: 0;\r\n  margin-left: 10px;\r\n  transition: color 2s;\r\n}\r\n\r\n.good__button:hover {\r\n  color: white;\r\n  outline: #daa;\r\n}\r\n"]}
